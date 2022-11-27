@@ -5,3 +5,4 @@ I am 2022 SSC batch.
 I started learning Web Development at 2019.
 My SSC result will be published in 28 November.
 Fixing logo alignment. 
+Today is 27-11-2022
